@@ -1,2 +1,2 @@
 # ping-pong
-pribet
+privet
